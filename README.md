@@ -1,2 +1,5 @@
-# Internship_Week-3
-Welcome to our E-Commerce Product Page! This web application is designed to help you showcase and sell your products online. Built with HTML, CSS, JavaScript, and PHP, it provides a responsive and user-friendly interface for both customers and administrators.
+E-Commerce Product Page
+Developed a responsive and user-friendly product page for an e-commerce website using HTML, CSS, JavaScript, and PHP.
+Designed an intuitive interface that allows customers to easily view, select, and purchase products, enhancing the overall shopping experience.
+Implemented administrative features for efficient product management, including inventory updates, price adjustments, and detailed product descriptions.
+Ensured cross-device compatibility and accessibility through responsive design techniques.
